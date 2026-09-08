@@ -1,4 +1,4 @@
-# 🚀 CypherTrax - Command Center (React Project)
+# 🚀 ConsentKey - Command Center (React Project)
 
 > A modern and secure Command Center application built using **React.js**.
 
