@@ -6,7 +6,7 @@
 
 ## 📋 Project Overview
 
-CypherTrax is a React-based system designed for real-time machine monitoring, user activity tracking, and secure access control.  
+ConsentKey is a React-based system designed for real-time machine monitoring, user activity tracking, and secure access control.  
 It features an admin panel, user authentication, system analytics, and a command execution terminal.
 
 ---
